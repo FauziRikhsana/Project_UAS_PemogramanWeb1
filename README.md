@@ -1,4 +1,4 @@
-# 📌UTS Pemograman Web 1 
+# 📌UAS Pemograman Web 1 
 Mata Kuliah : **Pemograman Web 1**  
 Dosen Pengampu : **Nova Agustina, ST., M.Kom.**
 
