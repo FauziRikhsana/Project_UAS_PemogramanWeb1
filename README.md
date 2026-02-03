@@ -12,6 +12,10 @@ Dosen Pengampu : **Nova Agustina, ST., M.Kom.**
 ---
 
 # 🧩 Project 1 — Website kota_indah
+🌱 Kota Indah — Web-Based Environmental Reporting System
+
+Kota Indah adalah aplikasi berbasis web yang dirancang untuk membantu masyarakat melaporkan permasalahan lingkungan secara cepat, mudah, dan transparan.
+Melalui platform ini, pengguna dapat menyampaikan laporan seperti jalan rusak, sampah menumpuk, atau fasilitas umum bermasalah, lalu memantau status dan progres penanganannya secara real-time.
 
 ## 📄 Deskripsi Singkat
 
