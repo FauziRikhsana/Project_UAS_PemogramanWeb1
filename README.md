@@ -33,7 +33,10 @@ Melalui platform ini, pengguna dapat menyampaikan laporan seperti jalan rusak, s
 ![alt text](https://github.com/FauziRikhsana/Project_UAS_PemogramanWeb1/blob/main/img/laporan.png?raw=true)
 ### 🖥️ Tampilan Halaman kelola laporan
 ![alt text](https://github.com/FauziRikhsana/Project_UAS_PemogramanWeb1/blob/main/img/kelola.png?raw=true)
-> *Tambahkan screenshot lain jika diperlukan.*
+
+akun 
+admin: admin@kotaindah.com
+pswd: admin123    
 
 
 ## Link web:
