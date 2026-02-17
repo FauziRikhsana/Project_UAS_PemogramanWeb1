@@ -38,5 +38,9 @@ admin: admin@kotaindah.com
 pswd: admin123    
 
 
+link video:
+https://drive.google.com/drive/folders/1GQrhXhwrPMw5L92WJ1A-_9gI32Ptt7QI?usp=sharing
+
+
 ## Link web:
 kota-indah-uas.great-site.net
